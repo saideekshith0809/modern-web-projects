@@ -11,3 +11,11 @@ This repository contains multiple modern UI projects built using HTML, CSS, and 
 - Landing Page
 
 More projects coming soon...
+## Included Projects
+
+- Landing Page
+- Glass Login
+- Calculator UI
+- Profile Page
+
+More modern web projects coming soon.
